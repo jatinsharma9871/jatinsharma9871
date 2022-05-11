@@ -24,15 +24,16 @@ Find out more about me & feel free to connect with me here:
         <a href="https://porfolio-react-rho.vercel.app/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
+	<a href="mailto:jatinsharma9871@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
 <!-- 	<a href="whatsapp://send?abid=8287891182&text=Hello%2C%20World!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 <!-- 	<a href="whatsapp://send?text=Hello World!&phone=+918287891182"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 <!--  	<a href="href="whatsapp:contact=8287891182@s.whatsapp.com&message="I'd like to chat with you""> -->
 		 
 <!-- 	</a>  -->
 	
-        <a href="mailto:jatinsharma9871@gmail.com" >
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-	</a>
+        
 </p>
 
 ---
