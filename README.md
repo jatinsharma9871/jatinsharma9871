@@ -81,11 +81,11 @@ Find out more about me & feel free to connect with me here:
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 
 ## 📈 Stats
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.github.com/api?username=jatinsharma9871&show_icons=true&hide_border=true&theme=radical" />
+<!-- 	<img width="48%" src="https://github-readme-stats.github.com/api?username=jatinsharma9871&show_icons=true&hide_border=true&theme=radical" /> -->
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatinsharma9871&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsharma9871&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.github.com/?user=jatinsharma9871&hide_border=true&theme=radical" />
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatinsharma9871&show_icons=true&locale=en" /> -->
 </p>
 
