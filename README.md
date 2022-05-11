@@ -25,7 +25,7 @@ Find out more about me & feel free to connect with me here:
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 <!-- 	<a href="whatsapp://send?abid=8287891182&text=Hello%2C%20World!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
-	<a href="whatsapp://send?text=Hello World!&phone=+918287891182" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+	<a href="whatsapp://send?text=Hello World!&phone=+918287891182">Ping me on WhatsApp</a><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <!--  	<a href="href="whatsapp:contact=8287891182@s.whatsapp.com&message="I'd like to chat with you""> -->
 		 
 <!-- 	</a>  -->
