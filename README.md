@@ -41,7 +41,7 @@ Find out more about me & feel free to connect with me here:
 
 ---
 
-[Jatin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jatinsharma9871&hide_border=true&theme=redical)
+![Jatin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jatinsharma9871&hide_border=true&theme=redical)
 
 ---
 
