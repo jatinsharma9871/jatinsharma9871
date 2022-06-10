@@ -85,6 +85,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinsharma9871)](https://github.com/jatinsharma9871)
 <!-- 	![Jatin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=jatinsharma9871&hide_border=true&theme=redical) -->
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinsharma9871&show_icons=true&theme=radical)
 <!-- / -->
 <!-- 	<img width="48%" src="https://github.com/jatinsharma9871/github-readme-stats" /> -->
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatinsharma9871&show_icons=true&hide_border=true&theme=radical" /> -->
