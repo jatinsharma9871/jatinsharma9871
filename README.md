@@ -21,7 +21,7 @@ Find out more about me & feel free to connect with me here:
 <!-- 	<a href="https://dev.to/raman_boddula">
 		<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 	</a> -->
-        <a href="https://porfolio-react-rho.vercel.app/" target="_blank">
+        <a href="https://jatinsharmaportfolio.herokuapp.com/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 	<a href="mailto:jatinsharma9871@gmail.com" target="_blank">
