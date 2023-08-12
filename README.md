@@ -40,7 +40,9 @@ Find out more about me & feel free to connect with me here:
 </p>
 
 ---
-
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
 ![Jatin's GitHub activity graph](https://activity-graph.vercel.com/graph?username=jatinsharma9871&hide_border=true&theme=redical)
 
 ---
