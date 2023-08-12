@@ -1,7 +1,7 @@
 # Hey, I am Jatin Sharma! Great to see you here! <img src="./wave.gif" width="30px">
 
 
-I am Jatin Sharma, I am an aspiring Full Stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner.
+I am Jatin Sharma, I am an Exprienced Full Stack web developer I am always open to collaborating on projects with innovative ideas and great problem solving manner.
 
 Find out more about me & feel free to connect with me here:
 
